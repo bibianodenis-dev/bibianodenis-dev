@@ -12,13 +12,14 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <!-- Ícones gerais de desenvolvimento e banco -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,docker,git,linux,postgres,mysql" />
+  <!-- Ícones gerais de desenvolvimento, banco e ferramentas -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,docker,git,linux,postgres,mysql,vscode" />
 </p>
 <p align="left">
-  <!-- Badges de Análise de Dados e Business Intelligence -->
+  <!-- Badges de Análise de Dados, BI e Data Science -->
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
@@ -82,5 +83,4 @@
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
-
 
