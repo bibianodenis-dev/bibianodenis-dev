@@ -80,3 +80,30 @@
   </a>
 </p>
 
+### 🌐 Redes & Contato
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Gmail / E-mail -->
+  <a href="mailto:seu-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5511999999999" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/SEU_USUARIO_INSTA" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <!-- Portfólio / Site Pessoal -->
+  <a href="https://SEU_SITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
