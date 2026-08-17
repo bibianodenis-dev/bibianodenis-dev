@@ -1,7 +1,5 @@
 # Olá, eu sou Denis Alves Bibiano 👋
 
-
-
 ### 👨‍💻 Sobre mim
 - 🔭 **Foco e Atuação:** Atualmente dedicado ao desenvolvimento de soluções em **Análise de Dados**, estruturando métricas estratégicas e construindo **dashboards dinâmicos e interativos** voltados para a tomada de decisão.
 - 🌱 **Evolução Contínua:** Aprofundando conhecimentos práticos e teóricos em **modelagem e manipulação de dados com Python (Pandas e NumPy)**, estruturação de fluxos no **Excel avançado** e cálculos analíticos complexos utilizando **DAX**.
@@ -29,56 +27,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bibianodenis-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibianodenis-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-### 🌐 Redes & Contato
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://SEU_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <!-- Ícones do Skill Icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,docker,git,linux,postgres,mysql" />
-</p>
-<p align="left">
-  <!-- Badges específicas para Análise de Dados -->
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-</p>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibianodenis-dev&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
-
-### 🌐 Redes & Contato
-<p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://SEU_PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
 
 ### 🌐 Redes & Contato
 <p align="left">
@@ -88,7 +41,7 @@
   </a>
 
   <!-- Gmail / E-mail -->
-  <a href="mailto:seu-email@gmail.com" target="_blank">
+  <a href="mailto:bibiano.denis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
