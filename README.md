@@ -24,11 +24,11 @@
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bibianodenis-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibianodenis-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bibianodenis-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bibianodenis-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bibianodenis-dev&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=bibianodenis-dev&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </p>
 
 ---
