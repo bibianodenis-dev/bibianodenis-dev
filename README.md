@@ -25,11 +25,11 @@
 <br/>
 
 <!-- ANIMAÇÃO PRINCIPAL TECNOLÓGICA -->
-<div align="center">
-  <img src="assets/animation.gif" alt="Animação Tecnológica de Dados e Programação" width="100%" style="max-width: 760px; border-radius: 8px;" />
+<p align="center">
+  <img src="assets/animation.gif" alt="Animação Tecnológica de Dados" width="100%" />
   <br/>
   <sub>⚡ <i>Simulação de matriz de dados em tempo real: ativação de blocos, dinamismo e física de impacto.</i></sub>
-</div>
+</p>
 
 <br/>
 
