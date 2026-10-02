@@ -1,0 +1,30 @@
+{
+  "name": "bibianodenis-dev",
+  "version": "1.0.0",
+  "description": "Repositório de Perfil GitHub do Denis Alves Bibiano com simulação autônoma de Ping Pong (Pong)",
+  "main": "scripts/generate_pong.js",
+  "scripts": {
+    "build": "node scripts/generate_pong.js && node scripts/generate_pong_svg.js",
+    "build:pong": "node scripts/generate_pong.js",
+    "build:svg": "node scripts/generate_pong_svg.js",
+    "deploy": "powershell -ExecutionPolicy Bypass -File scripts/deploy.ps1"
+  },
+  "keywords": [
+    "github-profile",
+    "data-analytics",
+    "business-intelligence",
+    "pong",
+    "simulation",
+    "devops"
+  ],
+  "author": "Denis Alves Bibiano <bibiano.denis@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibianodenis-dev/bibianodenis-dev.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bibianodenis-dev/bibianodenis-dev/issues"
+  },
+  "homepage": "https://github.com/bibianodenis-dev/bibianodenis-dev#readme"
+}
