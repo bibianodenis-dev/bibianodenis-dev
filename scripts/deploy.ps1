@@ -40,7 +40,7 @@ if ($CurrentBranch -ne "main") {
 
 # 4. Gerar simulação atualizada do Pong
 Write-Host "🎮 Compilando simulação autônoma de Ping Pong..." -ForegroundColor Magenta
-node scripts/generate_pong.js
+python scripts/generate_pong.py
 node scripts/generate_pong_svg.js
 
 # 5. Adicionar arquivos ao Git (respeitando .gitignore)

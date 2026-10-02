@@ -4,8 +4,8 @@
   "description": "Repositório de Perfil GitHub do Denis Alves Bibiano com simulação autônoma de Ping Pong (Pong)",
   "main": "scripts/generate_pong.js",
   "scripts": {
-    "build": "node scripts/generate_pong.js && node scripts/generate_pong_svg.js",
-    "build:pong": "node scripts/generate_pong.js",
+    "build": "python scripts/generate_pong.py && node scripts/generate_pong_svg.js",
+    "build:pong": "python scripts/generate_pong.py",
     "build:svg": "node scripts/generate_pong_svg.js",
     "deploy": "powershell -ExecutionPolicy Bypass -File scripts/deploy.ps1"
   },

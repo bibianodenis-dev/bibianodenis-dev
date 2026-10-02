@@ -26,7 +26,7 @@ fi
 git branch -M main
 
 echo "🎮 Compilando simulação autônoma de Ping Pong..."
-node scripts/generate_pong.js
+python scripts/generate_pong.py
 node scripts/generate_pong_svg.js
 
 echo "📦 Preparando arquivos para commit..."

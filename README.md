@@ -28,7 +28,7 @@
 <!-- SIMULAÇÃO AUTÔNOMA DE PING PONG (PONG RETRO AI)           -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="assets/pong.gif" alt="Simulação Autônoma de Ping Pong" width="100%" />
+  <img src="https://raw.githubusercontent.com/bibianodenis-dev/bibianodenis-dev/main/assets/pong.gif" alt="Simulação Autônoma de Ping Pong" width="100%" />
   <br/>
   <sub>🏓 <i>Simulação Autônoma de <b>Ping Pong (Classic Pong AI)</b> — Física de colisão vetorial, IA de antecipação contínua e dinâmica de impacto em tempo real.</i></sub>
 </div>
