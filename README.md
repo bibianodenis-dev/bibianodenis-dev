@@ -97,9 +97,9 @@ Organizadas por especialidade tecnológica:
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[📊 Power BI Executivo - Sales Intelligence](Powerbi/README.md)** | Dashboard interativo com modelagem dimensional (Star Schema), cálculo de métricas executivas em DAX e análise de sazonalidade e faturamento em Dark Mode. | `Power BI` `DAX` `Power Query` `Excel` |
-| **[🎧 Sistema de Gestão e Suporte Técnico](09%20Suporte%20tecnico/README.md)** | Plataforma web completa para gerenciamento de chamados de TI com gráficos analíticos, métricas de tempo de resposta e controle de status. | `JavaScript` `HTML5` `PostgreSQL` `CSS3` |
-| **[🌐 Portfólio Web Moderno](10%20Portf%C3%B3lio/README.md)** | Aplicação web responsiva desenvolvida com Next.js para exibição interativa de projetos, habilidades e contato profissional. | `Next.js 15` `React` `TypeScript` `Tailwind` |
+| 🏭 [Industria-Producao](https://github.com/bibianodenis-dev/Industria-Producao) | Análise e controle de processos industriais, monitoramento de linhas de produção e eficiência operacional. | `Power BI` `DAX` `Machine Learning` `Excel` `Orange` |
+| 📈 [PowerBI-Vendas](https://github.com/bibianodenis-dev/PowerBI-Vendas) | Dashboard estratégico de performance comercial, análise de faturamento, margem e metas por período. | `Power BI` `DAX` `Power Query` `ETL` |
+| 🎮  [desafio-mestre-pro](https://github.com/bibianodenis-dev/desafio-mestre-pro) | Jogo interativo voltado para estudantes, desenvolvido com foco em gamificação e fixação prática de conhecimento. | `Python` `SQLite`|
 
 ---
 
