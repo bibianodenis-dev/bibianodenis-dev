@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Banner Superior com fundo Azul e Dark Mode Gradiente -->
+  <!-- Banner Superior com estilo Dark Mode Gradiente Tecnológico -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066cc,100:0284c7&height=220&section=header&text=Denis%20Alves%20Bibiano&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL&descFontSize=18&descColor=e0f2fe&descAlignY=58" width="100%" alt="Header Denis Alves Bibiano" />
 
   <!-- Redes e Contatos Principais -->
@@ -24,12 +24,14 @@
 
 <br/>
 
-<!-- ANIMAÇÃO PRINCIPAL TECNOLÓGICA -->
-<p align="center">
-  <img src="assets/animation.gif" alt="Animação Tecnológica de Dados" width="100%" />
+<!-- ======================================================== -->
+<!-- SIMULAÇÃO AUTÔNOMA DE PING PONG (PONG RETRO AI)           -->
+<!-- ======================================================== -->
+<div align="center">
+  <img src="assets/pong.gif" alt="Simulação Autônoma de Ping Pong" width="100%" />
   <br/>
-  <sub>⚡ <i>Simulação de matriz de dados em tempo real: ativação de blocos, dinamismo e física de impacto.</i></sub>
-</p>
+  <sub>🏓 <i>Simulação Autônoma de <b>Ping Pong (Classic Pong AI)</b> — Física de colisão vetorial, IA de antecipação contínua e dinâmica de impacto em tempo real.</i></sub>
+</div>
 
 <br/>
 
@@ -67,7 +69,7 @@ Organizadas por especialidade tecnológica:
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### 🗄️ Banco de Dados
+### 🗄️ Bancos de Dados
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -99,7 +101,7 @@ Organizadas por especialidade tecnológica:
 | :--- | :--- | :--- |
 | 🏭 [Industria-Producao](https://github.com/bibianodenis-dev/Industria-Producao) | Análise e controle de processos industriais, monitoramento de linhas de produção e eficiência operacional. | `Power BI` `DAX` `Machine Learning` `Excel` `Orange` |
 | 📈 [PowerBI-Vendas](https://github.com/bibianodenis-dev/PowerBI-Vendas) | Dashboard estratégico de performance comercial, análise de faturamento, margem e metas por período. | `Power BI` `DAX` `Power Query` `ETL` |
-| 🎮  [desafio-mestre-pro](https://github.com/bibianodenis-dev/desafio-mestre-pro) | Jogo interativo voltado para estudantes, desenvolvido com foco em gamificação e fixação prática de conhecimento. | `Python` `SQLite`|
+| 🎮 [desafio-mestre-pro](https://github.com/bibianodenis-dev/desafio-mestre-pro) | Jogo interativo voltado para estudantes, desenvolvido com foco em gamificação e fixação prática de conhecimento. | `Python` `SQLite` |
 
 ---
 
