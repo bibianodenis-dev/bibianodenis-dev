@@ -1,4 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="100%" height="100%">
+const fs = require('fs');
+const path = require('path');
+
+function generatePongSvg() {
+  const width = 800;
+  const height = 240;
+
+  const svgContent = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" width="100%" height="100%">
   <defs>
     <style>
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700;800&amp;display=swap');
@@ -76,7 +83,7 @@
   </defs>
 
   <!-- Background Canvas -->
-  <rect width="800" height="240" rx="10" class="bg" />
+  <rect width="${width}" height="${height}" rx="10" class="bg" />
 
   <!-- Top HUD Bar -->
   <g class="font-mono">
@@ -126,4 +133,20 @@
     <circle r="7" class="ball-trail" />
     <circle r="5" class="ball-glow" />
   </g>
-</svg>
+</svg>`;
+
+  const outputDir = path.join(__dirname, '..', 'assets');
+  if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir, { recursive: true });
+  }
+
+  const svgPath = path.join(outputDir, 'pong.svg');
+  fs.writeFileSync(svgPath, svgContent);
+
+  // Mirrored to animation.svg as well
+  fs.writeFileSync(path.join(outputDir, 'animation.svg'), svgContent);
+
+  console.log(`Animated Pong SVG generated: ${svgPath}`);
+}
+
+generatePongSvg();
