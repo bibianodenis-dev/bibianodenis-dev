@@ -131,10 +131,10 @@ Sinta-se à vontade para entrar em contato ou acompanhar meus trabalhos:
   <a href="mailto:bibiano.denis@gmail.com">
     <img src="https://img.shields.io/badge/Email-bibiano.denis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/denis-alves-bibiano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Denis_Alves_Bibiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank">
+  <a href="https://wa.me/5511967142172" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
