@@ -25,12 +25,12 @@
 <br/>
 
 <!-- ======================================================== -->
-<!-- SIMULAÇÃO AUTÔNOMA DE PING PONG (PONG RETRO AI)           -->
+<!-- SIMULAÇÃO AUTÔNOMA DE PING PONG (COMMIT HEATMAP PONG)      -->
 <!-- ======================================================== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bibianodenis-dev/bibianodenis-dev/main/assets/pong.gif" alt="Simulação Autônoma de Ping Pong" width="100%" />
+  <img src="https://raw.githubusercontent.com/bibianodenis-dev/bibianodenis-dev/main/assets/pong.gif" alt="Simulação Autônoma de Ping Pong com base nos Commits" width="100%" />
   <br/>
-  <sub>🏓 <i>Simulação Autônoma de <b>Ping Pong (Classic Pong AI)</b> — Física de colisão vetorial, IA de antecipação contínua e dinâmica de impacto em tempo real.</i></sub>
+  <sub>🏓 <i>Simulação Autônoma de <b>Ping Pong (Commit Heatmap AI)</b> — Partida interativa com base na matriz de commits do GitHub: física vetorial, ativação de blocos de contribuição em tempo real e IA preditiva de raquetes.</i></sub>
 </div>
 
 <br/>
